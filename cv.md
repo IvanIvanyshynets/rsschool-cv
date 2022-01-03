@@ -15,13 +15,13 @@ My name is Ivan. I am currently learning programming in rsschool. So far, I am n
 * JS Basics
 
 ##### __Code example__
-
+```
 function add(x) {
   return function(y) {
     return x + y
   }
 }
-
+```
 ###### __Eucation:__
 * Complete secondary education
 * [ITEA](https://itea.ua/) 
