@@ -25,3 +25,8 @@ function add(x) {
 ###### __Eucation:__
 * Complete secondary education
 * [ITEA](https://itea.ua/) 
+
+###### __Language__
+* Ukrainian
+* Russian
+* English
